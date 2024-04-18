@@ -1,2 +1,8 @@
 # E-Commerce-Page
-E Commerce page created using HTML and CSS
+
+ ![preview](preview.png)
+
+ - Project built during the PROPROFISSÃO by Instituto PROA
+
+## Access
+ [Click to Open!](https://guirl-dev.github.io/E-Commerce-Page/)
